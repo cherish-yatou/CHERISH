@@ -1,0 +1,12 @@
+##### 2021-7-13
+STUDY 【CLUSTERPROFILER--COMPARECLUSTER】
+EXAMPLE： GSM4592552
+RSTUDIO： GSM4592552_compareCluster
+DONE
+
+##### 2021-7-14
+STUDY 【GO KEGG】enrichment analysis
+EXAMPLE： "/home/xiuli/work/scRNAseq/CY/RNAseq/count/R/DEG_AT1E18.5_vs_AT1P0.csv"
+RSTUDIO： GO-KEGG富集分析
+GAINED KNOWLEDGE：Grasp how to use GO&KEGG precisely, and get the knowledge of ploting, eg: cntplot, dotplot, barplot etc.
+DONE
