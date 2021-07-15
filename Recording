@@ -10,3 +10,11 @@ EXAMPLE： "/home/xiuli/work/scRNAseq/CY/RNAseq/count/R/DEG_AT1E18.5_vs_AT1P0.cs
 RSTUDIO： GO-KEGG富集分析
 GAINED KNOWLEDGE：Grasp how to use GO&KEGG precisely, and get the knowledge of ploting, eg: cntplot, dotplot, barplot etc.
 DONE
+
+##### 2021-7-15
+STUDY 【GO KEGG】enrichment analysis
+EXAMPLE： "/home/xiuli/work/scRNAseq/CY/RNAseq/count/R/DEG_AT1E18.5_vs_AT1P0.csv"
+RSTUDIO： GO-KEGG富集分析
+GAINED KNOWLEDGE：KEGG VISULIZATION--COMPLEMENT
+GAINED GITHUB：https://github.com/Easy-Shu/Beautiful-Visualization-with-R ，《R语言数据可视化之美》配套代码 
+DONE
